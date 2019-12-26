@@ -1,0 +1,1 @@
+dotnet HG.IdentityServer4.ApiResources.dll

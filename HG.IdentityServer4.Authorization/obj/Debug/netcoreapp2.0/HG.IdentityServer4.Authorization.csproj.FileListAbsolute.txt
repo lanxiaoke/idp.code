@@ -1,0 +1,12 @@
+C:\doc\IdentityServer4\HG.IdentityServer4\HG.IdentityServer4.Authorization\bin\Debug\netcoreapp2.0\certificate\cas.clientservice.pfx
+C:\doc\IdentityServer4\HG.IdentityServer4\HG.IdentityServer4.Authorization\bin\Debug\netcoreapp2.0\HG.IdentityServer4.Authorization.deps.json
+C:\doc\IdentityServer4\HG.IdentityServer4\HG.IdentityServer4.Authorization\bin\Debug\netcoreapp2.0\HG.IdentityServer4.Authorization.runtimeconfig.json
+C:\doc\IdentityServer4\HG.IdentityServer4\HG.IdentityServer4.Authorization\bin\Debug\netcoreapp2.0\HG.IdentityServer4.Authorization.runtimeconfig.dev.json
+C:\doc\IdentityServer4\HG.IdentityServer4\HG.IdentityServer4.Authorization\bin\Debug\netcoreapp2.0\HG.IdentityServer4.Authorization.dll
+C:\doc\IdentityServer4\HG.IdentityServer4\HG.IdentityServer4.Authorization\bin\Debug\netcoreapp2.0\HG.IdentityServer4.Authorization.pdb
+C:\doc\IdentityServer4\HG.IdentityServer4\HG.IdentityServer4.Authorization\obj\Debug\netcoreapp2.0\HG.IdentityServer4.Authorization.csproj.CoreCompileInputs.cache
+C:\doc\IdentityServer4\HG.IdentityServer4\HG.IdentityServer4.Authorization\obj\Debug\netcoreapp2.0\HG.IdentityServer4.Authorization.AssemblyInfoInputs.cache
+C:\doc\IdentityServer4\HG.IdentityServer4\HG.IdentityServer4.Authorization\obj\Debug\netcoreapp2.0\HG.IdentityServer4.Authorization.AssemblyInfo.cs
+C:\doc\IdentityServer4\HG.IdentityServer4\HG.IdentityServer4.Authorization\obj\Debug\netcoreapp2.0\HG.IdentityServer4.Authorization.dll
+C:\doc\IdentityServer4\HG.IdentityServer4\HG.IdentityServer4.Authorization\obj\Debug\netcoreapp2.0\HG.IdentityServer4.Authorization.pdb
+C:\doc\IdentityServer4\HG.IdentityServer4\HG.IdentityServer4.Authorization\obj\Debug\netcoreapp2.0\HG.IdentityServer4.Authorization.csprojAssemblyReference.cache

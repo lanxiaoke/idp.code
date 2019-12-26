@@ -1,0 +1,5 @@
+C:\doc\IdentityServer4\HG.IdentityServer4\HG.IdentityServer4.ApiResources
+--output-path=obj\Release\netcoreapp2.2\
+--application-name=HG.IdentityServer4.ApiResources
+--content-root=C:\doc\IdentityServer4\HG.IdentityServer4\HG.IdentityServer4.ApiResources
+--file=

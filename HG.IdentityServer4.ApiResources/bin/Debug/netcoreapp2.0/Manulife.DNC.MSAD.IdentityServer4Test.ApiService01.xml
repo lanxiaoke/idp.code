@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HG.IdentityServer4.ApiResources</name>
+    </assembly>
+    <members>
+        <member name="T:Manulife.DNC.MSAD.IdentityServer4Test.ApiService01.Controllers.ValuesController">
+            <summary>
+            ValuesController
+            </summary>
+        </member>
+        <member name="M:Manulife.DNC.MSAD.IdentityServer4Test.ApiService01.Controllers.ValuesController.Get">
+            <summary>
+            GET api/values
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Manulife.DNC.MSAD.IdentityServer4Test.ApiService01.Controllers.ValuesController.Get(System.Int32)">
+            <summary>
+            GET api/values/5
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Manulife.DNC.MSAD.IdentityServer4Test.ApiService01.Controllers.ValuesController.Post(System.String)">
+            <summary>
+            POST api/values
+            </summary>
+            <param name="value"></param>
+        </member>
+        <member name="M:Manulife.DNC.MSAD.IdentityServer4Test.ApiService01.Controllers.ValuesController.Put(System.Int32,System.String)">
+            <summary>
+            PUT api/values/5
+            </summary>
+            <param name="id"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:Manulife.DNC.MSAD.IdentityServer4Test.ApiService01.Controllers.ValuesController.Delete(System.Int32)">
+            <summary>
+            DELETE api/values/5
+            </summary>
+            <param name="id"></param>
+        </member>
+        <member name="M:Manulife.DNC.MSAD.IdentityServer4Test.ApiService01.Program.Main(System.String[])">
+            <summary>
+            Main
+            </summary>
+            <param name="args"></param>
+        </member>
+        <member name="M:Manulife.DNC.MSAD.IdentityServer4Test.ApiService01.Program.CreateWebHostBuilder(System.String[])">
+            <summary>
+            CreateWebHostBuilder
+            </summary>
+            <param name="args"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Manulife.DNC.MSAD.IdentityServer4Test.ApiService01.Startup">
+            <summary>
+            Startup
+            </summary>
+        </member>
+        <member name="M:Manulife.DNC.MSAD.IdentityServer4Test.ApiService01.Startup.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            Startup
+            </summary>
+            <param name="configuration"></param>
+        </member>
+        <member name="P:Manulife.DNC.MSAD.IdentityServer4Test.ApiService01.Startup.Configuration">
+            <summary>
+            Configuration
+            </summary>
+        </member>
+    </members>
+</doc>
